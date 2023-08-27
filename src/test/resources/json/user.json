@@ -1,0 +1,8 @@
+{
+  "firstName": "Homer",
+  "lastName": "Simpson",
+  "phoneNumber": "123-456-78-90",
+  "dateOfBirth": "1956-05-12",
+  "currentAddress": "742 Evergreen Terrace",
+  "favoriteFood": ["donuts", "pork chops", "american cheese"]
+}
